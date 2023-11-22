@@ -9,4 +9,4 @@ The solution generates complex SQL queries using bedrock models given a question
 * Mphasis DeepInsights is a cloud-based cognitive computing platform that offers data extraction & predictive analytics capabilities. Need customized Machine Learning and Deep Learning solutions? Get in touch!
 
 ## Amazon Marketplace Link
-The product can be found [here](https://aws.amazon.com/marketplace/pp/prodview-4svzsrobdh5lu?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
+The product can be found [here]([https://aws.amazon.com/marketplace/pp/prodview-4svzsrobdh5lu?sr=0-1&ref_=beagle&applicationId=AWSMPContessa](https://aws.amazon.com/marketplace/pp/prodview-jlu24mss2la6q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)https://aws.amazon.com/marketplace/pp/prodview-jlu24mss2la6q?sr=0-1&ref_=beagle&applicationId=AWSMPContessa)
